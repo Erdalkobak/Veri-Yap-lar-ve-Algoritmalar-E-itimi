@@ -1,1 +1,1 @@
-# Veri-Yap-lar-ve-Algoritmalar-E-itimi
+# Veri-Yapıları-ve-Algoritmalar-Eğitimi
